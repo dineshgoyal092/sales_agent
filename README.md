@@ -316,16 +316,17 @@ Try these test queries:
 ## 🎨 Screenshots
 
 ### Main Dashboard
-![Dashboard](docs/screenshots/dashboard.png)
+![Dashboard](screen_shot/dashboard.png)
+![Dashboard](screen_shot/top_selling_category.png)
 
 ### Summarization Mode
-![Summarization](docs/screenshots/summarization.png)
+![Summarization](screen_shot/summary_by_category.png)
 
 ### Q&A Mode
-![QA Mode](docs/screenshots/qa_mode.png)
+![QA Mode](screen_shot/qa_mode.png)
 
 ### Data Explorer
-![Data Explorer](docs/screenshots/data_explorer.png)
+![Data Explorer](screen_shot/data_explorer.png)
 
 ---
 
