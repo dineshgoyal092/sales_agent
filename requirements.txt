@@ -1,0 +1,29 @@
+# Core Dependencies
+streamlit==1.31.0
+pandas==2.2.0
+numpy==1.26.3
+
+# LLM and AI frameworks
+openai>=2.14.0
+langchain>=0.3.27
+langchain-openai>=0.3.35
+langgraph>=0.6.11
+langchain-community>=0.3.31
+langchain-core>=0.3.81
+azure-identity>=1.15.0
+
+# Data Processing
+duckdb==0.9.2
+python-dotenv==1.0.0
+
+# Vector Storage (Optional)
+faiss-cpu==1.7.4
+chromadb==0.4.22
+
+# Visualization
+plotly==5.18.0
+matplotlib==3.8.2
+
+# Utilities
+pydantic==2.5.3
+tiktoken==0.5.2
